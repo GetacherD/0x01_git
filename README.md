@@ -2,6 +2,6 @@
 Self Tutorial
 Test For Pull 
 
-git pull origin main
+git pull
 
 
