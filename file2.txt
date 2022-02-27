@@ -2,3 +2,10 @@ This is another file for commit 2
 
 Commit 2 is Ready 
 
+
+
+
+is Branch update can be fetched ? 
+
+git pull origin branchName
+
