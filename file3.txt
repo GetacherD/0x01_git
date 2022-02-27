@@ -1,0 +1,6 @@
+This is File 3 on Feature for second commit
+
+Second commit on Feature is Ready
+
+Thank you 
+
