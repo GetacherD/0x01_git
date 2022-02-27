@@ -1,4 +1,11 @@
 Rebase Example 
 Ready for commit 
-:wq
+:wqto 
+
+
+
+
+Rebase updated in Remote
+
+git pull  to update local main 
 
