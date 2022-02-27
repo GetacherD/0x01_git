@@ -9,3 +9,5 @@ is Branch update can be fetched ?
 
 git pull origin branchName
 
+Yes Of Course
+
