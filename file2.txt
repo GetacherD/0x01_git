@@ -11,3 +11,7 @@ git pull origin branchName
 
 Yes Of Course
 
+Feature
+This is Features Source of Conflict 
+Feature
+
